@@ -1,0 +1,11 @@
+#log files
+*.log
+
+#executable files
+*.exe
+
+#Object files
+*.o
+
+#Project files
+*.dev
